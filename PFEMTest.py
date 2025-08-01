@@ -1,4 +1,5 @@
 # https://polyfem.github.io/python_examples/
+# conda install conda-forge::polyfempy
 
 import numpy as np
 import polyfempy as pf
